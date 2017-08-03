@@ -1,7 +1,7 @@
 {
   "name": "potree",
   "private": false,
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "WebGL point cloud viewer",
   "scripts": {
     "lint": "eslint src",
