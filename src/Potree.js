@@ -924,3 +924,4 @@ Potree.DEMRenderer = class{
 	}
 };
 */
+module.exports = Potree;
