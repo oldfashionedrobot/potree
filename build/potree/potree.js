@@ -925,7 +925,9 @@ Potree.DEMRenderer = class{
 };
 */
 
-export Potree
+declare module 'potree' {
+  export = Potree;
+}
 
 
 //
