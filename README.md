@@ -2,6 +2,8 @@
 
 # README
 
+NOTE: This NPM registry is currently a Work In Progress. 
+
 * [Getting Started](./docs/getting_started.md)
 
 ## About
